@@ -1,8 +1,8 @@
 from plyer import notification
 
-title = 'Hello Amazing people!'
+title = 'Alert'
 
-message= 'Thankyou for reading! Take care!'
+message= 'You used Laptop for long Time' 
 
 notification.notify(title= title,
                     message= message,
